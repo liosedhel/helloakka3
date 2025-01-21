@@ -1,2 +1,5 @@
 .idea
 target
+.semanticgraphs
+.metals
+.vscode

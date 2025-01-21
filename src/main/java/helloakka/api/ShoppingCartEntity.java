@@ -9,7 +9,6 @@ import org.slf4j.LoggerFactory;
 
 import java.util.Collections;
 
-//TODO KB cannot be renamed by accident
 @ComponentId("shopping-cart")
 public class ShoppingCartEntity extends EventSourcedEntity<ShoppingCart, ShoppingCartEvent> {
 
